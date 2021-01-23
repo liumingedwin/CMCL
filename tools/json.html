@@ -1,0 +1,34 @@
+<!doctype html>
+<html>
+<head>
+<title>JSON Format</title>
+</head>
+<body>
+From:<br />
+<textarea id="json-from"></textarea>
+<br />
+To:<br />
+<pre id="json-to" contenteditable></pre>
+<br />
+<button onclick="format()">Format</button>
+<script>
+String.prototype.replaceAll=function(a,b){
+	var c=this;
+	while(c.indexOf(a)!==-1)
+	{
+		c=c.replace(a,b);
+	}
+	return c;
+}
+
+window.$=function(e){return document.querySelector(e);}
+function format(){
+var obj=JSON.parse($('#json-from').value);
+var rep="\t";
+var c=(JSON.stringify(obj,0,rep));
+$('#json-to').innerHTML=c;
+console.log(c);
+}
+</script>
+</body>
+</html>
