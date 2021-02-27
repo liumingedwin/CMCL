@@ -1,6 +1,6 @@
 # CMCL启动器
 
-(English edition)[https://github.com/liumingedwin/CMCL/blob/main/README.md]
+[English Edition](https://github.com/liumingedwin/CMCL/blob/main/README.md)
 
 ## 介绍
 这是一款支持下载启动Minecraft的启动器，足以与HMCL媲美。  
