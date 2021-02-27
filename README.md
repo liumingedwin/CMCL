@@ -17,5 +17,7 @@ We will update the program frequently.
 
 ## Donate
 Mr Orange donates a milk tea for me.  
-Mr Huang tests the program.  
+Mr Huang tests the program and note me to fix a bug.  
+Mr Liu serves some ideas for me.
+Thanks for them.
 Welcome to [Donate](https://github.com/liumingedwin/CMCL/blob/main/releases.md)!
