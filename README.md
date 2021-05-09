@@ -21,3 +21,4 @@ Mr Huang tests the program and note me to fix a bug.
 Mr Liu serves some ideas for me.  
 Thanks for them.
 Welcome to [Donate](https://github.com/liumingedwin/CMCL/blob/main/releases.md)!
+![video](https://github.com/liumingedwin/CMCL/blob/main/20210227_152200.mp4)
